@@ -8,4 +8,4 @@ The fine-tuned model can recognize the digital characters on the LCD monitor.The
 # Installation
 1. Clone the repository:
    ```bash
- [https://github.com/vlarjun20/-Digital-Character-Recognition-.git]
+    https://github.com/vlarjun20/-Digital-Character-Recognition-.git
